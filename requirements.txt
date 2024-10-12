@@ -1,0 +1,19 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+flake8==3.7.9
+yapf==0.29.0
+isort==4.3.21
+yacs
+gdown
+tb-nightly
+future
+scipy
+scikit-learn
+tqdm
+wandb==0.15.12
+chardet
+ftfy
+regex
+wilds==1.2.2
+tabulate
