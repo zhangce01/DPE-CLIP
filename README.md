@@ -14,7 +14,7 @@ This repository contains the code for our NeurIPS 2024 paper `Dual Prototype Evo
 #### 1. Environment
 We test our codebase with PyTorch 2.1.1 with CUDA 12.1. Please install corresponding PyTorch and CUDA versions according to your computational resources. Then install the rest of required packages by running `pip install -r requirements.txt`. 
 
-### 2. Dataset
+#### 2. Dataset
 To set up all required datasets, kindly refer to the guidance in [DATASETS.md](docs/DATASETS.md), which incorporates steps for installing two benchmarks.
 
 ## 📦Usage
