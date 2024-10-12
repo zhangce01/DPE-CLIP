@@ -1,5 +1,5 @@
 # [NeurIPS 2024] DPE-CLIP
-[![Website](https://img.shields.io/badge/Project-Website-green)](https://kdiaaa.github.io/tda/)
+[![Website](https://img.shields.io/badge/Project-Website-green)](https://zhangce01.github.io/DPE-CLIP/)
 [![arXiv](https://img.shields.io/badge/arXiv-1111.11111-red)](http://arxiv.org/abs/1111.11111)
 [![Conference](https://img.shields.io/badge/NeurIPS-2024-blue)](https://neurips.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
