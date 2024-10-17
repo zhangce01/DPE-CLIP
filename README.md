@@ -1,11 +1,11 @@
 # [NeurIPS 2024] DPE-CLIP
 [![Website](https://img.shields.io/badge/Project-Website-green)](https://zhangce01.github.io/DPE-CLIP/)
-[![arXiv](https://img.shields.io/badge/arXiv-1111.11111-red)](http://arxiv.org/abs/1111.11111)
+[![arXiv](https://img.shields.io/badge/arXiv-2410.12790-red)](http://arxiv.org/abs/2410.12790)
 [![Conference](https://img.shields.io/badge/NeurIPS-2024-blue)](https://neurips.cc/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 👀Introduction
-This repository contains the code for our NeurIPS 2024 paper `Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models`. [[Paper](https://arxiv.org/abs/1111.11111)]
+This repository contains the code for our NeurIPS 2024 paper `Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models`. [[Paper](https://arxiv.org/abs/2410.12790)]
 
 ![](docs/comparison.png)
 
@@ -62,7 +62,7 @@ If you find this code useful, please consider citing our work:
 @article{zhang2024dual,
   title={Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models},
   author={Zhang, Ce and Stepputtis, Simon and Sycara, Katia and Xie, Yaqi},
-  journal={arXiv preprint arXiv:1111.11111},
+  journal={arXiv preprint arXiv:2410.12790},
   year={2024}
 }
 ```
