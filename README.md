@@ -60,9 +60,11 @@ If you find this code useful, please consider citing our work:
 
 ```bibtex
 @article{zhang2024dual,
-  title={Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models},
+  title={Dual prototype evolving for test-time generalization of vision-language models},
   author={Zhang, Ce and Stepputtis, Simon and Sycara, Katia and Xie, Yaqi},
-  journal={arXiv preprint arXiv:2410.12790},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={32111--32136},
   year={2024}
 }
 ```
